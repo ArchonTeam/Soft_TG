@@ -134,14 +134,13 @@ set welcome disable
 〰〰〰〰〰〰
 *Only moderators & owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about,settings commands
 〰〰〰〰〰〰
-*Only owner can use res,setowner,promote,demote,log commands 
-@shieldTM  👈👈pls join
+@Soft_TG
   ]]
 end
 
 return {
-  description = "shield",
-  patterns = {"^[!/%$+=.-*&][Hh]elpen$"},
+  description = "Soft_TG",
+  patterns = {"^[!/%$+=.-*&][Hh]elp$"},
   run = run 
 }
 end
