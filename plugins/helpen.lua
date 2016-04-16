@@ -100,6 +100,10 @@ ok : send sticker open
 〰〰〰〰〰〰
 !tagall [text]
 tag users && send your message
+!praytime [city]
+azan city your
+!music [serch]
+danwload music
 〰〰〰〰〰〰
 !shield
 send about shield
@@ -128,7 +132,8 @@ set welcome to group
 set welcome to pm (pv)
 set welcome disable
 〰〰〰〰〰〰
-**U can use "/" & "!"
+!support
+در صورت وجود مشکل در گروه 
 〰〰〰〰〰〰
 *Only owner & mods can add bots to group
 〰〰〰〰〰〰
