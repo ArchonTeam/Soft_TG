@@ -104,9 +104,8 @@ tag users && send your message
 azan city your
 !music [serch]
 danwload music
-〰〰〰〰〰〰
-!shield
-send about shield
+!weather
+baraye ab-hava
 〰〰〰〰〰〰
 !all
 see all about group
