@@ -14,7 +14,7 @@ function run(msg, matches)
         return save_file(name, text)
         end
         if not is_sudo(msg) then
-            return "پر رو نشو بابام فقط می تونه"
+            return "فقط اددمین میتواند"
     end
    end
 return {
