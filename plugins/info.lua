@@ -2,8 +2,8 @@
 #
 # Show users information in groups 
 #
-# author: Arian < @Dragon_Born > 
-# our channel: @GPMod
+# author: Arian < @Mohammad_NBG>
+# our channel: @Soft_TG_Channel
 # Version: 2016-04-02
 #
 # Features added:
@@ -13,7 +13,7 @@
 ]]
 
 do
-local Arian = 80182995,132667916,119650184,156823206 --put your id here(BOT OWNER ID)
+local Arian = 147237496 --put your id here(BOT OWNER ID)
 
 local function setrank(msg, name, value) -- setrank function
   local hash = nil
