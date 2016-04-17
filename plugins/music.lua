@@ -154,6 +154,3 @@ do
 
 
 end
-
-    --telegram.me/mohammad_nbg
-
